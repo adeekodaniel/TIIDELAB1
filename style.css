@@ -1,0 +1,58 @@
+body {
+  background-color: peachpuff;
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+header {
+  text-align: center;
+}
+header h5,
+h6 {
+  font-style: italic;
+  font-size: 20px;
+  margin: 0;
+  color: red;
+}
+main {
+  border: 2px solid white;
+  width: 40%;
+  margin: 1rem;
+  background-color: yellow;
+  padding-left: 1rem;
+  font-family: "Courier New", Courier, monospace;
+}
+main a {
+  text-decoration: none;
+  font-style: italic;
+  border: 1px solid green;
+  border-radius: 50px;
+  padding: 0.4rem;
+  background-color: white;
+}
+.first {
+  margin: 1rem;
+  padding: 1rem;
+}
+.first p {
+  color: navy;
+  font-weight: bold;
+  line-height: 1.3rem;
+  font-size: 1.2rem;
+}
+#second p {
+  font-size: 2rem;
+  font-style: italic;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#second {
+  margin: 1rem;
+  padding: 1rem;
+}
+.third {
+  margin: 1rem;
+  padding: 1rem;
+}
